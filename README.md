@@ -1,4 +1,11 @@
-# SummarizationPapers
+# SUMPapers
+Must-read papers and related awesome resources on text summarization.
+
+Suggestions about adding papers, repositories and other resource are welcomed!
+
+值得一读的方面级情感分析论文与相关资源集合。
+
+欢迎新增论文、代码仓库与其他资源等建议！
 
 ## Papers
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning (ACL 2016) [[paper]](https://www.aclweb.org/anthology/P16-1154/) - ***Copy Mechanism***
