@@ -12,12 +12,18 @@ Suggestions about adding papers, repositories and other resource are welcomed!
 - Get To The Point: Summarization with Pointer-Generator Networks (ACL 2017) [[paper]](https://www.aclweb.org/anthology/P17-1099/) - ***PGN***
 - Fine-tune BERT for Extractive Summarization (CoRR 2019) [[paper]](https://arxiv.org/abs/1903.10318)[[code]](https://github.com/nlpyang/BertSum) - ***BertSum***
 - Text Summarization with Pretrained Encoders (EMNLP 2019) [[paper]](https://www.aclweb.org/anthology/D19-1387/)[[code]](https://github.com/nlpyang/PreSumm) - ***BertSumExtAbs***
+- Structured Neural Summarization (ICLR 2019) [[paper]](https://arxiv.org/abs/1811.01824)[[codee]](https://github.com/CoderPat/structured-neural-summarization)
 - Encode, Tag, Realize: High-Precision Text Editing (EMNLP 2019) [[paper]](https://arxiv.org/abs/1909.01187)[[code]](https://github.com/google-research/lasertagger) - ***LaserTagger***
+- PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization (ICML 2020) [[paper]](https://arxiv.org/abs/1912.08777) - ***PEGASUS***
 
 ## Chinese Blogs
 - [copy(pointer) making the seq2seq with attention better](https://carlos9310.github.io/2019/11/19/add-copy-to-seq2seq-with-attention/)
 - [指针生成网络(Pointer-Generator-Network)原理与实战](https://www.cnblogs.com/zingp/p/11571593.html)
-- [文本摘要(text summarization)最新研究热点、发展趋势，里程碑论文推荐](https://zhuanlan.zhihu.com/p/111266615)
+- [刘鹏飞 / 文本摘要(text summarization)最新研究热点、发展趋势，里程碑论文推荐](https://zhuanlan.zhihu.com/p/111266615)
+- [邱震宇 / 文本自动摘要任务的“不完全”心得总结](https://zhuanlan.zhihu.com/p/83596443)
+- [邱震宇 / 文本自动摘要任务的“不完全”心得总结番外篇——submodular函数优化](https://zhuanlan.zhihu.com/p/143735009)
+- [张文涛 / 2015-2019年摘要模型（Summarization Model）发展综述（一）](https://zhuanlan.zhihu.com/p/135468859)
+- [张文涛 / 2015-2019年摘要模型（Summarization Model）发展综述（二）](https://zhuanlan.zhihu.com/p/138282654)
 
 ## Repositories
 - [ymfa / seq2seq-summarizer](https://github.com/ymfa/seq2seq-summarizer)
