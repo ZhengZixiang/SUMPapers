@@ -30,6 +30,7 @@ Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend ex
 ## Repositories
 - [danieldeutsch / sacrerouge](https://github.com/danieldeutsch/sacrerouge)
   - **SacreROUGE: An Open-Source Library for Using and Developing Summarization Evaluation Metrics**. *Daniel Deutsch, Dan Roth*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.05374)
+- [Mleader2 / text_scalpel](https://github.com/Mleader2/text_scalpel) - Modify Chinese text, modified on LaserTagger Model
 - [ymfa / seq2seq-summarizer](https://github.com/ymfa/seq2seq-summarizer)
 
 ## Alternative Lists
