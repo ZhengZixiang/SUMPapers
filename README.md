@@ -18,6 +18,7 @@ Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend ex
 - **Encode, Tag, Realize: High-Precision Text Editing**. *Eric Malmi, Sebastian Krause, Sascha Rothe, Daniil Mirylenka, Aliaksei Severyn*. (EMNLP 2019) [[paper]](https://arxiv.org/abs/1909.01187)[[code]](https://github.com/google-research/lasertagger) - ***LaserTagger***
 - **PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization**. *Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J. Liu*. (ICML 2020) [[paper]](https://arxiv.org/abs/1912.08777)
 - **Understanding Neural Abstractive Summarization Models via Uncertainty**. *Jiacheng Xu, Shrey Desai, Greg Durrett*. (EMNLP 2020) [[paper]](https://arxiv.org/abs/2010.07882)
+- **Extractive Summarization as Text Matching**. *Ming Zhong, Pengfei Liu, Yiran Chen, Danqing Wang, Xipeng Qiu, Xuanjing Huang*. (ACL 2020) [[paper]](https://arxiv.org/abs/2004.08795)[[code]](https://github.com/maszhongming/MatchSum)
 
 ## Chinese Blogs
 - [copy(pointer) making the seq2seq with attention better](https://carlos9310.github.io/2019/11/19/add-copy-to-seq2seq-with-attention/)
