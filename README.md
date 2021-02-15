@@ -33,6 +33,7 @@ Since I am Chinese, I mainly focus on Chinese resources. Welcome to recommend ex
 - [danieldeutsch / sacrerouge](https://github.com/danieldeutsch/sacrerouge)
   - **SacreROUGE: An Open-Source Library for Using and Developing Summarization Evaluation Metrics**. *Daniel Deutsch, Dan Roth*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2007.05374)
 - [HHousen / TransformerSum](https://github.com/HHousen/TransformerSum)
+- [liucongg / GPT2-NewsTitle](https://github.com/liucongg/GPT2-NewsTitle) - Chinese NewsTitle Generation Project by GPT2.带有超级详细注释的中文GPT2新闻标题生成项目
 - [Mleader2 / text_scalpel](https://github.com/Mleader2/text_scalpel) - Modify Chinese text, modified on LaserTagger Model
 - [neulab / Text-Summarization-Papers](https://github.com/neulab/Text-Summarization-Papers) - An Exhaustive Paper List for Text Summarization
 - [xcfcode / Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) - Summarization Papers
